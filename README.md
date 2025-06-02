@@ -2,7 +2,7 @@
 This is my perosnal web-project to share my views and thoughts  over the global political events
 
 ##Projects
-###[Project 1](https://politiconlab.com/)
+###[Project 1](docs/assets/Фанін І.С.-modified.png)
 Description
 Links
 
